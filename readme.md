@@ -10,18 +10,9 @@ _i use arch, btw._
 
 ## 🚧 current projects
 
-- building a **web framework**, a **public chat app**, and some **markov chain weirdness**
+- building a **web framework**, and **markov chains**
 - rewriting finished projects for no good reason (because i can)
-- making cursed-but-interesting stuff related to performance, systems, or just vibes
-
----
-
-## 👀 catch me doing things like
-
-- 🚫 refusing to use docker (💖 podman supremacy)
-- 🔨 building tools nobody asked for
-- 🧠 writing stuff from scratch when there’s a perfectly fine library i could've used
-- 🧪 experimenting with stuff only i will use
+- making stuff related to performance, systems, or just vibes
 
 ---
 
