@@ -2,7 +2,7 @@
 
 👨‍💻 dev, student.
 
-i mostly write in **typescript (on bun)**, **zig**, **go**, and **python**,  
+i mostly write in **go**, **zig**, **typescript (on bun)** and **python**,  
 because i like my tools fast, clean, and simple.  
 _i use arch, btw._
 
@@ -10,7 +10,7 @@ _i use arch, btw._
 
 ## 🚧 current projects
 
-- building a **web framework**, and **markov chains**
+- working on my [homelab](https://vinster.xyz)
 - rewriting finished projects for no good reason (because i can)
 - making stuff related to performance, systems, or just vibes
 
@@ -18,8 +18,8 @@ _i use arch, btw._
 
 ## 🖇️ links
 
-[🌐 website](https://based.is-a.dev)  
-[🌈 bluesky](https://bsky.app/profile/based.is-a.dev)  
+[🌐 website](https://furina.is-a.dev)  
+[🌈 bluesky](https://bsky.app/profile/furina.is-a.dev)  
 [💬 discord](https://discord.gg/bk9sbwdwc4)
 
 ---
