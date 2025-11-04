@@ -28,6 +28,3 @@ see [furina.is-a.dev/socials](https://furina.is-a.dev/socials/) for a full list 
 [discord/dragsbruh](https://discord.com/users/781445370177126401)
 [codeberg/dragsbruh](https://codeberg.org/dragsbruh)
 [youtube/legendrags](https://www.youtube.com/@legendrags)
-
-legend
-you can see that, as well as more socials [here](https://furina.is-a.dev/socials).
