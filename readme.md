@@ -1,13 +1,9 @@
-# helloooooooooooooooooooooooooooooooooo
+# hey there
 
 im dragsbruh, find more info on [furina.is-a.dev](https://furina.is-a.dev).
-i have a homelab btw, on [miku.is-a.dev](https://miku.is-a.dev).
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragsbruh&layout=compact&theme=city_lights&border_radius=12&hide_border=true&hide=typescript" alt="dragsbruh's top ;anguages">
-
+<div style="display: flex; justify-content: space-between; margin-bottom: 1rem
   <img src="https://github-readme-stats.vercel.app/api?username=dragsbruh&show_icons=true&hide_border=true&count_private=true&border_radius=12&theme=city_lights&include_all_commits=false&rank_icon=percentile&hide_title=true" alt="dragsbruh's github stats">
-
   <!-- weird that i cant use include_all_commits=true -->
 </div>
 
@@ -19,12 +15,19 @@ i have a homelab btw, on [miku.is-a.dev](https://miku.is-a.dev).
 
 ### also known as...................
 
-- ***Fonta Drinker***, *Furina De Fontaine!!!*
-
-- *dragsbruh*, ***LegenDrags***
-
-- ***Postmiku Labs***
+- furina de fontaine
+- dragsbruh
+- LegenDrags
 
 ### contacts
 
+see [furina.is-a.dev/socials](https://furina.is-a.dev/socials/) for a full list that i mostly try to keep updated
+
+[dragsbruh@protonmail.com](mailto:dragsbruh@protonmail.com)
+
+[discord/dragsbruh](https://discord.com/users/781445370177126401)
+[codeberg/dragsbruh](https://codeberg.org/dragsbruh)
+[youtube/legendrags](https://www.youtube.com/@legendrags)
+
+legend
 you can see that, as well as more socials [here](https://furina.is-a.dev/socials).
